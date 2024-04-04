@@ -8,7 +8,6 @@ Das ist ein Beispieltext
 ## LIsten funktionieren auch
 
 -Item 1
--Item 2
 -Item 3
 -Item 4
 
